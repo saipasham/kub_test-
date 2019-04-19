@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# kube node
 exec &> /var/log/init-aws-kubernetes-node.log
 
 set -o verbose
